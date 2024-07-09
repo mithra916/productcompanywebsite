@@ -104,7 +104,7 @@ person.html:
       </div>
   </div>
   <div class="person">
-      <li> <img src="./23007752~2.jpg" class="bod"></br><span> &nbsp;&nbsp;&nbsp;RAGUL</span><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CEO</p></li>
+      <li> <img src="./23007752~2.jpg" class="bod"></br><span> &nbsp;&nbsp;&nbsp;LOGA MITHRAL</span><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CEO</p></li>
       <li> <img src="./Johnny.jpg"  class="bod"></br><span>&nbsp;&nbsp;&nbsp;JOHNNY</span><P>&nbsp;&nbsp;&nbsp;&nbsp;Founder</P></li>
       <li> <img src="./loki.jpg" class="bod"></br><span>&nbsp;&nbsp;&nbsp;LOKI</span><p>&nbsp;&nbsp;&nbsp;&nbsp;Co-Founder</li>
       <li> <img src="./peaky.jpeg"class="bod" ></br><span>&nbsp;&nbsp;&nbsp;CILLIAN</span><p>&nbsp;&nbsp;&nbsp;&nbsp;Director</p></li>
@@ -113,7 +113,7 @@ person.html:
   </div>
   <footer>
   <div  class="colored-line">
-      <h5>Design and developed by RAGUL RAAJAN .T &copy;2023</h5>
+      <h5>Design and developed by LOGA MITHRA.R &copy;2023</h5>
   </div>
 </footer>
   
@@ -146,7 +146,7 @@ products.html:
   </div>
   <footer>
       <div  class="colored-line">
-          <h5>Design and developed by RAGUL RAAJAN .T &copy;2023</h5>
+          <h5>Design and developed by LOGA MITHRA.R &copy;2023</h5>
       </div>
   </footer>
   
@@ -163,7 +163,7 @@ products.html:
 
 # people 
 
-![image](https://github.com/mithra916/productcompanywebsite/assets/149986612/de6267a2-82c1-451b-bc14-3c3d7239cbc9)
+
 
 # products
 
